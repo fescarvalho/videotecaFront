@@ -1,7 +1,9 @@
+import { Container } from "./styles";
+
 export default function Header() {
   return (
-    <div>
-      <h1>Header</h1>
-    </div>
+    <Container>
+      <h3>VideoTeca</h3>
+    </Container>
   );
 }
