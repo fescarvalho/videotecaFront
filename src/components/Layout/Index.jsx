@@ -1,4 +1,4 @@
-import VideoList from "../../VideoList";
+import VideoList from "../VideoList/index";
 import Footer from "../Footer";
 import Header from "../Header";
 import { Container } from "./styles";
